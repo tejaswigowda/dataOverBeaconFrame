@@ -18,7 +18,7 @@ extern "C" {
 }
 #include <ESP8266WiFi.h> 
 
-String prefix = "CB2-";
+String prefix = "FDN-";
 
 
 
